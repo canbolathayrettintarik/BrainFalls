@@ -48,7 +48,8 @@ yPoints[i] = centerY + (int) (radius * Math.sin(angle));
  
 Clone this repostory, open your IDE and import the folder as a Java project. Locate Main.java in the src folder and execute the file.
 
-Future Improvements
+##Future Improvements
+
 Adaptive Difficulty: Implementing a system where game speed and spawn rates increase incrementally as the player progresses.
 
 Mobile Porting: Adapting the game logic for Android devices.
@@ -57,3 +58,4 @@ Database Integration: Implementing database support for persistent global leader
 
 Audio Feedback: Adding sound effects for user interactions.
 Author:github.com/canbolathayrettintarik
+

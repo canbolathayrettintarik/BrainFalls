@@ -33,7 +33,8 @@ while (iterator.hasNext()) {
         iterator.remove();  
     }
 }
-2. Custom Geometry Rendering
+
+### 2. Custom Geometry Rendering
 Since java.awt.Graphics does not provide direct methods for regular pentagons or hexagons, a custom vertex calculation algorithm was developed.
 
 
@@ -58,4 +59,5 @@ Database Integration: Implementing database support for persistent global leader
 
 Audio Feedback: Adding sound effects for user interactions.
 Author:github.com/canbolathayrettintarik
+
 
